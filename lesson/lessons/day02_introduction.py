@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+city = input("Enter your city: ")
+clg = input("Enter your college: ")
+fav = input ("Enter your favorite programming language:")
+
+print(f"Hello {name}!")
+print(f"You are from {city}.")
+print(f"You are from {clg} college.")
+print(f"Your favorite language is {fav}.")
+print("Best of luck for your AI engineering journey!")
