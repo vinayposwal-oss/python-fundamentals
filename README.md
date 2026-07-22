@@ -16,5 +16,5 @@ This repository contains my daily Python practice as part of my AI Engineering j
 ## Progress
 
 - [x] Day 1 - Variables
-- [ ] Day 2 - Operators
-- [ ] Day 3 - Conditions
+- [x] Day 2 - Operators
+- [x] Day 3 - Conditions
